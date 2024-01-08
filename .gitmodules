@@ -1,3 +1,6 @@
 [submodule "Programming"]
 	path = Programming
 	url = git@github.com:Khaled1712/Programming.git
+[submodule "Devops"]
+	path = Devops
+	url = git@github.com:Khaled1712/Devops.git
