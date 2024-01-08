@@ -19,7 +19,7 @@ Moderate in fat
 
 ### What to eat (A variety of fruits and vegetables)
 Artichaut 
-Pois
+Pois chiche
 Broccoli
 Chickpeas
 Lentils
